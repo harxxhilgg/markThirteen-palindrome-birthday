@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+    --bg-color: #212121;
+    --light-dark-white: #323232;
+    --text-color: #ffffff;
+    --df-skyblue: #0D7377;
+    --light-skyblue: #14FFEC;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+}
+
+header { 
+    background: var(--light-dark-white);
+    color: var(--light-skyblue);
+    padding: 2.5rem;
+    text-align: center;
+}
+
+header h1 {
+    display: grid;
+    place-items: center;
+    font-size: 35px;
+}
+
+section {
+    display: grid;
+    place-items: center;
+    background: var(--df-skyblue);
+    width: 70%;
+    margin: 2rem auto;
+    border-radius: 10px;
+}
+
+section input {
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+    font-size: 15px;
+    background: var(--light-dark-white);
+    color: var(--text-color);
+    border: none; 
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    justify-content: center;
+}
+
+section button {
+    cursor: pointer;
+    padding: 0.5rem 2rem;
+    background: var(--light-skyblue);
+    color: var(--bg-color);
+    border: none;
+    outline: none; 
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+section button:hover {
+    background: #14ffeba4;
+}
+
+section p {
+    margin: 2rem auto;
+    font-size: 25px;
+    font-weight: bold;
+    color: var(--bg-color);
+    text-align: center;
+    padding: 1rem; 
+}
+
+@media only screen and (max-width: 900px) {
+    section {
+        width: 85%;
+    }
+
+    section input {
+        padding: 1rem 0.5rem;
+    }
+}
