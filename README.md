@@ -5,6 +5,7 @@ Welcome to the Palindrome Birthday WebApp! This web application allows you to ch
 ## Table of Contents 
 
 - Demo
+- Technologies
 - Features
 - Usage
 - Contributing
@@ -12,6 +13,12 @@ Welcome to the Palindrome Birthday WebApp! This web application allows you to ch
 ## Demo
 
 Check out the live demo of the Palindrome-Birthday-app @ [Palindrome-Birthday](https://mark-thirteen-palindrome-birthday.vercel.app/)
+
+## Technologies
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Features 
 
