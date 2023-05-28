@@ -1,6 +1,6 @@
 # 🎂 Palindrome-Birthday
 
-Welcome to the Palindrome Birthday WebApp! This web application allows you to check if your birthday is a palindrome. A palindrome is a word, phrase, number, or sequence of characters that reads the same forward and backward. With this app, you can find out if your birth date is a palindrome and share the results with your friends.
+Welcome to the Palindrome Birthday WebApp! This web application allows you to check if your birthday is a palindrome. A palindrome is a word, phrase, number, or sequence of characters that reads the same forward and backward. With this app, you can find out if your birth date is a palindrome or not.
 
 ## Table of Contents 
 
