@@ -25,6 +25,7 @@ Check out the live demo of the Palindrome-Birthday-app @ [Palindrome-Birthday](h
 - Enter your birthdate and check if it is a palindrome.
 - Supports different date formats (e.g., DD/MM/YYYY, MM/DD/YYYY, YYYY/MM/DD, DD/MM/YY, MM/DD/YY, YY/MM/DD).
 - Provides results with a clear indication of whether the birthdate is a palindrome or not.
+- Also provides how many days are off for the next palindrome date if your entered date is not palindrome.
 
 ## Usage
 
